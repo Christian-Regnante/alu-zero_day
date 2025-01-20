@@ -1,1 +1,4 @@
-1 Repo-session in git directory
+4 Collaboration: be up to date
+   
+For this task – and only for this task – please update your file README.md in the main branch from GitHub.com. 
+It’s the only time you are allowed to update and commit from GitHub interface.
